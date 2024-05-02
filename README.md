@@ -1,4 +1,4 @@
-##First Project (AI): Rock Paper Scissors AI using Markov Chains
+## First Project (AI): Rock Paper Scissors AI using Markov Chains
 
 This is my first assignment for my Artificial Intelligence course. The goal of the project is to build an AI agent capable of playing the classic game Rock Paper Scissors using a Markov chain approach.
 
